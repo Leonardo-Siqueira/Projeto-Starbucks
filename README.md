@@ -1,6 +1,9 @@
 <h1 align="center">Projeto Starbucks ☕</h1>
 
 <h2>📷 Demonstração</h2>
+<h2 align="center">
+  <img alt="Readme" title="Readme" src=""/>
+</h2>
 
 <h2>🚀 Tecnologias</h2>
 
