@@ -3,6 +3,7 @@
 <h2>📷 Demonstração</h2>
 <h2 align="center">
   <img alt="Readme" title="Readme" src="https://github.com/Leonardo-Siqueira/Projeto-Starbucks/blob/main/Anima%C3%A7%C3%A3o.gif"/>
+  <img alt="Readme" title="Readme" src="https://github.com/Leonardo-Siqueira/Projeto-Starbucks/blob/main/Anima%C3%A7%C3%A3o2.gif/>
 </h2>
 
 <h2>🚀 Tecnologias</h2>
